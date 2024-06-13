@@ -1,0 +1,4 @@
+name: testing
+version: '${project.version}'
+main: br.com.minecraft.hanlly.testing.Testing
+api-version: '1.20'
